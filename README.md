@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Full Stack Development, keyboard layouts or vim**
 
-- ⚡ Fun fact **I can touch type on qwerty + dvorak and I'm a vim fan!**
+- ⚡ Fun fact **I can touch type on qwerty or dvorak layout & I'm a vim fan!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
