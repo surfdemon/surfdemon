@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surfdemon" alt="surfdemon" /></a> </p>
 
+- 🔭 I’m currently working on [Whack a Mole](https://github.com/surfdemon/whack-a-mole)
+
 - 🌱 I’m currently learning **JavaScript, Python, Django React, Vue**
 
-- 👯 I’m looking to collaborate on [Whack a Mole](https://github.com/surfdemon/whack-a-mole)
+- 💬 Ask me about **Full Stack Development, keyboard layouts or vim**
 
-- 💬 Ask me about **JavaScript, Python**
+- ⚡ Fun fact **I can touch type on qwerty + dvorak and I'm a vim fan!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
