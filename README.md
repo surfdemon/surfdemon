@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
-<h3 align="center">Tech Support -> Operations Manager -> Software Engineer</h3>
+<h3 align="center">Tech Support -> Operations Manager -> Junior Full Stack Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surfdemon&label=Profile%20views&color=0e75b6&style=flat" alt="surfdemon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surfdemon" alt="surfdemon" /></a> </p>
 
-- 🔭 I’m currently working on [Whack a Mole](https://github.com/surfdemon/whack-a-mole)
+- 🔭 I’m currently working on [Gainpace Property](https://github.com/surfdemon/gainpace-property)
 
 - 🌱 I’m currently learning **JavaScript, Python, Django React, Vue**
 
 - 💬 Ask me about **Full Stack Development, keyboard layouts or vim**
 
-- ⚡ Fun fact **I can touch type on qwerty or dvorak layout & I'm a vim fan!**
+- ⚡ Fun fact **I can touch type on qwerty or Dvorak layout & I'm a vim fan!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
