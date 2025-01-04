@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surfdemon" alt="surfdemon" /></a> </p>
 
-- 🔭 I’m currently working on [Gainpace Property](https://github.com/surfdemon/gainpace-property)
+- 🔭 I’m currently working on [My Portfolio Site]([https://github.com/surfdemon/gainpace-property](https://github.com/surfdemon/nuxt-portfolio))
 
 - 🌱 I’m currently learning **JavaScript, Python, Django React, Vue**
 
