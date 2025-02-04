@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My Portfolio Site]([https://github.com/surfdemon/gainpace-property](https://github.com/surfdemon/nuxt-portfolio))
 
-- 🌱 I’m currently learning **JavaScript, Python, Django React, Vue**
+- 🌱 I’m currently learning **JavaScript, Python, Django, React, Vue**
 
 - 💬 Ask me about **Full Stack Development, keyboard layouts or vim**
 
