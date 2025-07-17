@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surfdemon" alt="surfdemon" /></a> </p>
 
-- 🔭 I’m currently working on a private project called <a href="https://mileagehog.com/">MileageHog</a> and <a href="https://mailtocal.com/">MailToCal</a>, using Nuxt3, Vuetify, Pinia, Supabase, Nuxt UI, Netlify, Netlify Functions, Google Cloud Functions, Claude API and Google Calendar API. You can view <a href="https://rob-beach.netlify.app/">my portfolio</a> to see more of my work.
+- 🔭 I’m currently working on a private project called <a href="https://mileagehog.com/" target="_blank">MileageHog</a> and <a href="https://mailtocal.com/" target="_blank">MailToCal</a>, using Nuxt3, Vuetify, Pinia, Supabase, Nuxt UI, Netlify, Netlify Functions, Google Cloud Functions, Claude API and Google Calendar API. You can view <a href="https://rob-beach.netlify.app/" target="_blank">my portfolio</a> to see more of my work.
 
 - 🌱 I’m currently learning **Nuxt 3 & Nuxt UI**
 
