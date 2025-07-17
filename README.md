@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surfdemon" alt="surfdemon" /></a> </p>
 
-- 🔭 I’m currently working on a private project called <a href="https://mileage-hog.netlify.app/">MileageHog</a>, using Nuxt3, Vuetify, Pinia, Supabase, and Netlify.
+- 🔭 I’m currently working on a private project called <a href="https://mileagehog.com/">MileageHog</a> and <a href="https://mailtocal.com/">MailToCal</a>, using Nuxt3, Vuetify, Pinia, Supabase, Nuxt UI, Netlify, Netlify Functions, Google Cloud Functions, Claude API and Google Calendar API.
 
-- 🌱 I’m currently learning **JavaScript, Python, Django, React, Vue**
+- 🌱 I’m currently learning **Nuxt 3 & Nuxt UI**
 
-- 💬 Ask me about **Full Stack Development, keyboard layouts or vim**
+- 💬 Ask me about **Full Stack Development, keyboard layouts or Vim**
 
-- ⚡ Fun fact **I can touch type on qwerty or Dvorak layout & I'm a vim fan!**
+- ⚡ Fun fact **I can touch type on qwerty or Dvorak layout & play snooker both left and right handed!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
