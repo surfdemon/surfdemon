@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surfdemon" alt="surfdemon" /></a> </p>
 
-- 🔭 I’m currently working on a private project called <a href="https://mileagehog.com/" target="blank">MileageHog</a> and <a href="https://mailtocal.com/" target="blank">MailToCal</a>, using Nuxt3, Vuetify, Pinia, Supabase, Nuxt UI, Netlify, Netlify Functions, Google Cloud Functions, Claude API and Google Calendar API. You can view <a href="https://rob-beach.netlify.app/" target="blank">my portfolio</a> to see more of my work.
+- 🔭 I’m currently working on a private project called <a href="https://mileagehog.com/" target="_blank">MileageHog</a> and <a href="https://mailtocal.com/" target="_blank">MailToCal</a>, using Nuxt3, Vuetify, Pinia, Supabase, Nuxt UI, Netlify, Netlify Functions, Google Cloud Functions, Claude API and Google Calendar API. You can view <a href="https://rob-beach.netlify.app/" target="_blank">my portfolio</a> to see more of my work.
 
 - 🌱 I’m currently learning **Nuxt 3 & Nuxt UI**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rob-p-beach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rob-p-beach" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rob-p-beach" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rob-p-beach" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
